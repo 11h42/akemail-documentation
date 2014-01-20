@@ -2,7 +2,7 @@ Bienvenue sur la documentation d'Akemail!
 =========================================
 
 `Akemail`_ est une solution d'emailing en mode SASS. Vous trouverez ici la documentation utilisateur, pour vous aider à
-utiliser notre produit. Le code de cette documentation est disponible sur `Bitbucket`. Vous pouvez contribuer à son
+utiliser notre produit. Le code de cette documentation est disponible sur `Bitbucket`_. Vous pouvez contribuer à son
 amélioration
 
 .. _Akemail: https://akemail.fr/
@@ -24,8 +24,8 @@ Documentation générale d'Akemail
 .. toctree::
     :maxdepth: 2
 
-    commencer avec akemail
-    gérér mes informations
+    akemail_start
+    handle_information
     support
     faq
 
@@ -38,10 +38,10 @@ Gérer ses contacts dans Akemail
 .. toctree::
     :maxdepth: 2
 
-    créer un contact
-    import des contacts
-    gérer ma limite de contact
-    champs personnalisés
+    create_contact
+    import_contacts
+    contact_limit
+    custom_fields
 
 
 .. _mailing-docs:
@@ -52,10 +52,9 @@ Créer et gérer ses mailings
 .. toctree::
     :maxdepth: 2
 
-    créer un mailing
-    gérer un mailing
-    voir le resultat d'un mailing
-    améliorer mon mailing
+    create_mailing
+    handle_mailing
+    mailing_result
 
 
 .. _report-docs:
@@ -66,8 +65,8 @@ Voir et interpréter ses rapports
 .. toctree::
     :maxdepth: 2
 
-    comprendre un rapport
-    obtenir ses rapports mensuels
+    understand_report
+    monthly_reports
 
 
 
