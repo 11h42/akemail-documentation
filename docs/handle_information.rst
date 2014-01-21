@@ -1,3 +1,6 @@
+.. _ref-handle_information:
+
+===================================
 Gérer vos informations personnelles
 ===================================
 

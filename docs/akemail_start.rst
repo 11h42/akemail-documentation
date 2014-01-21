@@ -1,3 +1,6 @@
+.. _ref-akemail_start:
+
+=====================
 Démarrer avec Akemail
 =====================
 

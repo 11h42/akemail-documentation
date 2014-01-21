@@ -1,3 +1,6 @@
+.. _ref-support:
+
+=======
 Support
 =======
 

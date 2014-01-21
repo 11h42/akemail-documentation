@@ -1,3 +1,6 @@
+.. _ref-index:
+
+=========================================
 Bienvenue sur la documentation d'Akemail!
 =========================================
 
@@ -22,12 +25,11 @@ Documentation générale d'Akemail
 --------------------------------
 
 .. toctree::
-    :maxdepth: 2
+   :maxdepth: 1
 
-    akemail_start
-    handle_information
-    support
-    faq
+   akemail_start
+   handle_information
+   support
 
 
 .. _contact-docs:
@@ -36,12 +38,11 @@ Gérer ses contacts dans Akemail
 -------------------------------
 
 .. toctree::
-    :maxdepth: 2
+   :maxdepth: 1
 
-    create_contact
-    import_contacts
-    contact_limit
-    custom_fields
+   create_contact
+   import_contacts
+   contact_limit
 
 
 .. _mailing-docs:
@@ -49,24 +50,12 @@ Gérer ses contacts dans Akemail
 Créer et gérer ses mailings
 ---------------------------
 
-.. toctree::
-    :maxdepth: 2
-
-    create_mailing
-    handle_mailing
-    mailing_result
-
 
 .. _report-docs:
 
 Voir et interpréter ses rapports
 --------------------------------
 
-.. toctree::
-    :maxdepth: 2
-
-    understand_report
-    monthly_reports
 
 
 

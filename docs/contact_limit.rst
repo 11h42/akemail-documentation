@@ -1,5 +1,8 @@
-Limite de contacts
-==================
+.. _ref-contact_limit:
+
+===================
+Limite des contacts
+===================
 
 Contrairement à nos concurrents, nous préférons limiter le nombre de contacts, plutôt que de vous faire payer à
 l'email. Et ça pour deux raisons :
