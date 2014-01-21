@@ -29,7 +29,7 @@ disponibles (2000 - 1500).
 
 Maintenant je supprime 500 contacts. J'ai donc 1000 contacts dans ma base de contacts, mais j'ai toujours 500 contacts
 disponibles durant tout le mois en cours.
-Ce n'est qu'à partir du début du mois prochain, que mon nombre de contacts disponibles va repassé à 1000.
+Ce n'est qu'à partir du début du mois prochain, que mon nombre de contacts disponibles repassera à 1000.
 **Mon quota est remis à zéro au début de chaque mois**.
 
 Un contact supprimé, puis réimporté durant un mois ne compte que pour un contact.
