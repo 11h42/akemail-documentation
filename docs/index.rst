@@ -22,7 +22,7 @@ La documentation pour ce site est décomposée en 4 grandes sous sections
 .. _akemail-docs:
 
 Documentation générale d'Akemail
---------------------------------
+================================
 
 .. toctree::
    :maxdepth: 1
@@ -35,7 +35,7 @@ Documentation générale d'Akemail
 .. _contact-docs:
 
 Gérer ses contacts dans Akemail
--------------------------------
+===============================
 
 .. toctree::
    :maxdepth: 1
@@ -48,13 +48,13 @@ Gérer ses contacts dans Akemail
 .. _mailing-docs:
 
 Créer et gérer ses mailings
----------------------------
+===========================
 
 
 .. _report-docs:
 
 Voir et interpréter ses rapports
---------------------------------
+================================
 
 
 
