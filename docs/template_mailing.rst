@@ -31,7 +31,7 @@ Un contact, en fonction du nom des entêtes, se voit attribuer un champ personna
 .. figure::  _static/images/custom_fields.png
    :align:   center
 
-Vous pouvez dans vos emails utiliser ses champs personnalisés pour personnaliser vos emails. Par exemple si vous avez
+Vous pouvez dans vos emails utiliser ces champs personnalisés pour personnaliser vos emails. Par exemple si vous avez
 un contact avec le champ personnalisé **entreprise** qui correspond à son entreprise.
 
 Vous pouvez dans votre mailing rajouter les informations personnalisées entourées de doubles accolades
@@ -54,10 +54,11 @@ Lien de désinscription
 Nous vérifions qu'un lien est présent dans votre mailing avec la valeur personnalisée {{ UNSUBSCRIBE }}.
 
 
-    <a href="{{ UNSUBSCRIBE }}">Me désinscrire</a>
+    <a href="{{ UNSUBSCRIBE }}">Se désinscrire de la newletter d'Akemail</a>
 
 Si cette information n'est pas présente, alors Akemail rajoute pour vous cette information à la fin de votre mailing.
 
     <a href="{{ UNSUBSCRIBE }}">Me désinscrire</a>
 
 Ce qui est remplacé par un lien simple dans votre mailing.
+
