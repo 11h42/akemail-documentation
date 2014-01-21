@@ -50,6 +50,11 @@ Gérer ses contacts dans Akemail
 Créer et gérer ses mailings
 ===========================
 
+.. toctree::
+   :maxdepth: 1
+
+   create_mailing
+   template_mailing
 
 .. _report-docs:
 

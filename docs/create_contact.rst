@@ -4,7 +4,7 @@
 Créer un contact
 ================
 
-Vous pouvez créer un contact dans Akemail en cliquant sur le bouton créer un contact depuis le Dashboard:
+Vous pouvez créer un contact dans Akemail en cliquant sur le bouton **créer un contact** depuis le Dashboard:
 
 .. figure::  _static/images/bookmark.png
    :align:   center
