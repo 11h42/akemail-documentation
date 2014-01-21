@@ -193,8 +193,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    ('index', 'Akemail.tex', u'Akemail Documentation',
-     u'Steve Marechal, Cédric Ricard, Guillaume Vincent \\& l\'équipe d\'Akemail', 'manual'),
+    ('index', 'Akemail.tex', u'Akemail Documentation', u'l\'équipe d\'Akemail', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of

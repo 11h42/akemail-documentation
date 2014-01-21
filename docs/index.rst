@@ -11,51 +11,33 @@ amélioration
 .. _Akemail: https://akemail.fr/
 .. _Bitbucket: https://bitbucket.org/akemail/akemail_documentation
 
-La documentation pour ce site est décomposée en 4 grandes sous sections
-
-* :ref:`akemail-docs`
-* :ref:`contact-docs`
-* :ref:`mailing-docs`
-* :ref:`report-docs`
-
-
-.. _akemail-docs:
 
 Documentation générale d'Akemail
---------------------------------
+================================
 
-.. toctree::
-   :maxdepth: 1
+* :ref:`ref-akemail_start`
+* :ref:`ref-handle_information`
+* :ref:`ref-support`
 
-   akemail_start
-   handle_information
-   support
-
-
-.. _contact-docs:
 
 Gérer ses contacts dans Akemail
--------------------------------
+===============================
 
-.. toctree::
-   :maxdepth: 1
+* :ref:`ref-create_contact`
+* :ref:`ref-import_contacts`
+* :ref:`ref-contact_limit`
 
-   create_contact
-   import_contacts
-   contact_limit
-
-
-.. _mailing-docs:
 
 Créer et gérer ses mailings
----------------------------
+===========================
 
+à venir
 
-.. _report-docs:
 
 Voir et interpréter ses rapports
---------------------------------
+================================
 
+à venir
 
 
 
