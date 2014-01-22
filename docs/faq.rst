@@ -31,3 +31,14 @@ Nous créons des connecteurs pour SAP, OpenERP, applications mobiles, applicatio
 
 Vous voulez plus d'informations ? Envoyez nous un email à contact@akemail.fr
 
+
+Comment puis-je augmenter ma délivrabilité ?
+--------------------------------------------
+Si vous utilisez la protection `SPF`_ pour protéger vos mails d'entreprise, vous pouvez rajouter les serveurs d'email d'akemail dans votre SPF:
+
+**include:akemail.fr**
+
+Votre enregistrement dans vos DNS doit ressembler à :
+
+**v=spf1 mx include:mon-entreprise.com include:akemail.fr ~all**
+.. _SPF: http://fr.wikipedia.org/wiki/Sender_Policy_Framework
