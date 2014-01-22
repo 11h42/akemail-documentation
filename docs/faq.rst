@@ -8,8 +8,7 @@ Pourquoi rajoutez vous automatiquement un lien de désinscription à la fin de m
 ------------------------------------------------------------------------------------------
 
 Le lien de désinscription permet à votre mailing de ne pas être considéré comme un spam. La plus part des fournisseurs
-d'adresse email (Gmail, Yahoo, Outlook, AOL) considèrent presque automatiquement un email comme spam s'il ne possède pas
-de lien de désinscription.
+d'adresse email (Gmail, Yahoo, Outlook, AOL) considèrent souvent un mailing comme spam s'il ne possède pas de lien de désinscription.
 
 Plus d'information: :doc:`template_mailing`
 
@@ -41,4 +40,5 @@ Si vous utilisez la protection `SPF`_ pour protéger vos mails d'entreprise, vou
 Votre enregistrement dans vos DNS doit ressembler à :
 
 **v=spf1 mx include:mon-entreprise.com include:akemail.fr ~all**
+
 .. _SPF: http://fr.wikipedia.org/wiki/Sender_Policy_Framework
