@@ -30,6 +30,7 @@ Documentation générale d'Akemail
    akemail_start
    handle_information
    support
+   faq
 
 
 .. _contact-docs:

@@ -51,7 +51,9 @@ Lien de désinscription
 
 
 **/!\\ Akemail rend obligatoire le lien de désinscription. Ce dernier doit figurer dans votre mailing.**
-Nous vérifions qu'un lien est présent dans votre mailing avec la valeur personnalisée {{ UNSUBSCRIBE }}.
+Nous vérifions qu'un lien est présent dans votre mailing avec la valeur personnalisée :
+
+{{ UNSUBSCRIBE }}
 
 
     <a href="{{ UNSUBSCRIBE }}">Se désinscrire de la newletter d'Akemail</a>
