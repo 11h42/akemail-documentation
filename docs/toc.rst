@@ -10,6 +10,9 @@ Table des matières
    akemail_start
    handle_information
    support
+   faq
    create_contact
    import_contacts
    contact_limit
+   create_mailing
+   template_mailing
