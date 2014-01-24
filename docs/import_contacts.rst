@@ -25,7 +25,7 @@ L'import de contact se fait en trois étapes:
 
 Un fichier **CSV** (Comma-separated values) est un format informatique ouvert représentant des données tabulaires sous
 forme de valeurs séparées par des virgules.
-Excel, libre Office, Google Document, tous permettent d'exporter vos données au format CSV.
+Excel, Libre Office, Google Document, etc... Tous ces logiciels permettent d'exporter vos données au format CSV.
 
 Les en-têtes correspondent aux noms des colonnes de votre fichier **CSV**. Ils deviendront des champs personnalisés
 pour chaque contact (comme décrits plus haut).
@@ -39,10 +39,10 @@ fichier **CSV** n'est pas valide. Arrétez vous là, modifier votre fichier **CS
 Terminez votre import en selectionnant la destination de vos contacts puis cliquez sur le bouton
 **Importer vos contacts**
 
-Import en cours/terminés
-------------------------
+Imports en cours/terminés
+-------------------------
 
-Un import de contacts est une tache qui peut prendre du temps. Cette tache est effectuée en tache de fond, vous pouvez
+Un import de contacts est une tache qui peut prendre du temps. Cette tâche est effectuée en tâche de fond, vous pouvez
 pendant un import utiliser Akemail.
 
 La liste des imports que vous avez effectués est disponible dans Akemail depuis le sous-menu dans la page **contacts**
@@ -64,7 +64,7 @@ précise pour chacune des erreurs la ligne à laquelle l'erreur s'est produite.
  *  Un email invalide n'est pas inséré
  *  Une ligne sans email est ignorée (comme l'entête de votre fichier si elle se trouve au debut de votre fichier **CSV**)
 
-Un import de contacts, peut rester à l'état PRÊT quelques heures. Il correspond à un import de contact pour lequel vous
+Un import de contacts, peut rester à l'état PRÊT quelques heures. Il correspond à un import de contacts pour lequel vous
 avez importé un fichier puis abandonné l'opération.
 
 .. _Akemail: https://akemail.fr/

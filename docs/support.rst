@@ -8,10 +8,10 @@ Support
 rapidement possible.
 
 Si vous souhaitez obtenir un support sur un problème que vous rencontrez, vous pouvez nous envoyer un email à
-**support@akemail.fr**
+**support@akemail.fr**.
 
 Vous souhaitez demander une nouvelle fonctionnalité, faire une remarque sur notre produit, n'hésitez pas, envoyez nous un email
-à **contact@akemail.fr**
+à **contact@akemail.fr**.
 
 
 .. _Akemail: https://akemail.fr/

@@ -18,7 +18,7 @@ vous accédez à l'espace **mon compte**
    :align:   center
 
 L'espace mon compte vous permet de gérer le changement de votre mot de passe.
-/!\ Il est conseillé de changer son **mot de passe** dès la première utilisation d'Akemail.
+/!\\ Il est conseillé de changer son **mot de passe** dès la première utilisation d'Akemail.
 
 Il vous permet de modifier les différentes informations concernant votre société. Vous pouvez voir l'ensemble de vos
 documents, comme vos **factures**, vos rapports mensuels d'activité, etc...

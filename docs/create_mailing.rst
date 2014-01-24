@@ -25,11 +25,11 @@ intitulé.
 
 Quand vous créer un mailing, vous avez besoin de renseigner un email d'envoi. Il correspond à l'email "expediteur".
 
-**/!\\ Attention un bon email d'envoi, doit correspondre à un email vous appartenant, et dont le nom de domaine n'enfreint pas la norme de vérification** `SPF`_
+**/!\\ Attention vous devez utiliser un email d'entreprise dont le nom de domaine vous appartient.**
 
 Exemple:
 
- * **administrateur@ebay.com** ne fonctionnera pas, nos serveurs n'ont pas le droit d'envoyer ce genre de mailing.
+ * **administrateur@ebay.com** ne fonctionnera pas, nos serveurs n'ont pas le droit d'envoyer ce genre de mailing (vous enfreignez la norme `SPF`_).
  * **contact@gmail.com** fonctionnera mal, il n'est pas recommandé d'envoyer un email depuis un autre serveur que ceux de gmail. Votre mailing sera très souvent considéré comme un spam.
 
 Préconisez des emails d'envoi comme **contact@monentreprise.com** ou **no-reply@monentreprise.com**
@@ -58,6 +58,8 @@ donc pas possible d'envoyer un mauvais mailing à toute votre base de contact.
 
 L'email de test vous convient ? Vous pouvez passer à l'étape 3 en cliquant sur le bouton **sauvegardez et choissez vos destinataires**
 
+Notez que vos emails de tests sont comptabilisés dans le nombre de destinataires de votre mailing.
+
 Choisissez vos destinataires et démarrez
 ----------------------------------------
 C'est la dernière étape avant l'envoi d'un mailing:
@@ -68,8 +70,11 @@ C'est la dernière étape avant l'envoi d'un mailing:
 Durant cette étape vous devez selectionner une liste précédement créée. Si vous n'avez pas renseigné de date et que vous
 démarrez votre mailing, le mailing partira tout de suite.
 
-Vous pouvez différer l'envoi d'un mailing à plus tard, et spécifier une date de fin. N'envoyer pas votre offre promotionnelle
+Vous pouvez **différer l'envoi d'un mailing à plus tard**, et spécifier une date de fin. N'envoyez pas votre offre promotionnelle
 à vos clients pour un salon, une fois la date du salon dépassée.
+Il est important de savoir qu'Akemail retente d'envoyer des emails en erreur temporaire.
+La boite mail de votre destinataire est peut être pleine.
+Akemail peut retenter pendant un mois d'envoyer un mail en erreur temporaire.
 
 Vous pouvez sauvegarder ce mailing, pour l'éditer par la suite.
 Un aperçu est disponible, il représente l'email vu par vos clients dans leur client mail (outlook, gmail)

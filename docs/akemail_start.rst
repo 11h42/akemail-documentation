@@ -14,10 +14,11 @@ Lors de votre première connexion, vous arrivez sur le dashboard, centre névral
 .. figure::  _static/images/dashboard.png
    :align:   center
 
-Plusieurs panneaux de contrôles sont disponibles, les racourcis (ou **bookmarks**) qui regroupe les boutons des
-fonctionnalités les plus utilisées dans Akemail. Le panneau **statistiques des contacts**, qui vous permet d'avoir un
-aperçu de la volumétrie de votre base de contact. Le dernier panneau concerne un panneau d'information qui concerne
-les **dernières actualités** d'Akemail que vous êtes en train d'utiliser.
+Plusieurs panneaux de contrôles sont disponibles:
+
+ * les racourcis (ou **bookmarks**) qui regroupent les boutons des fonctionnalités les plus utilisées dans Akemail.
+ * Le panneau **statistiques des contacts**, qui vous permet d'avoir un aperçu de la volumétrie de votre base de contacts.
+ * Le dernier panneau concerne un panneau d'information qui concerne les **dernières actualités** d'Akemail que vous êtes en train d'utiliser.
 
 Akemail est un logiciel activement développé, et une nouvelle version est disponible toutes les 2 à 4 semaines.
 Ce panneau vous montre le numéro de version, et les dernières améliorations et corrections effectuées depuis la dernière
