@@ -5,11 +5,11 @@ Bienvenue sur la documentation d'Akemail!
 =========================================
 
 `Akemail`_ est une solution d'emailing en mode SASS. Vous trouverez ici la documentation utilisateur, pour vous aider à
-utiliser notre produit. Le code de cette documentation est disponible sur `Bitbucket`_. Vous pouvez contribuer à son
+utiliser notre produit. Le code de cette documentation est disponible sur `Github`_. Vous pouvez contribuer à son
 amélioration
 
 .. _Akemail: https://akemail.fr/
-.. _Bitbucket: https://bitbucket.org/akemail/akemail_documentation
+.. _Github: https://github.com/akema-fr/akemail-documentation
 
 La documentation pour ce site est décomposée en 4 grandes sous sections
 
