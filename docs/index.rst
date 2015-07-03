@@ -16,6 +16,7 @@ La documentation pour ce site est décomposée en 4 grandes sous sections
 * :ref:`akemail-docs`
 * :ref:`contact-docs`
 * :ref:`mailing-docs`
+* :ref:`widgets-docs`
 
 .. _akemail-docs:
 
@@ -55,7 +56,12 @@ Créer et gérer ses mailings
    create_mailing
    template_mailing
 
+.. _widgets-docs:
 
+Gérer ses widgets d'abonnement
 ================================
 
+.. toctree::
+   :maxdepth: 2
 
+   create_and_manage_widgets

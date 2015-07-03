@@ -16,3 +16,4 @@ Table des matières
    contact_limit
    create_mailing
    template_mailing
+   create_and_manage_widgets
