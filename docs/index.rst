@@ -16,8 +16,6 @@ La documentation pour ce site est décomposée en 4 grandes sous sections
 * :ref:`akemail-docs`
 * :ref:`contact-docs`
 * :ref:`mailing-docs`
-* :ref:`report-docs`
-
 
 .. _akemail-docs:
 
@@ -57,11 +55,7 @@ Créer et gérer ses mailings
    create_mailing
    template_mailing
 
-.. _report-docs:
 
-Voir et interpréter ses rapports
 ================================
-
-
 
 
