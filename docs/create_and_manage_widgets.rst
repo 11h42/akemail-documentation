@@ -15,7 +15,7 @@ Ce comportement est à rapprocher des widgets d'inscription aux newsletters pré
 
 Voici les étapes à accomplir pour utiliser un widget sur votre site:
 
-* **créer une liste** avec au moins un contact ;
+* **créer une liste** ;
 * **générer le code** du widget pour cette liste ;
 * **copier le code** du widget et placez le sur votre site.
 
@@ -34,7 +34,7 @@ Créer un widget
 -------------------
 
 Pré-requis
-    Il vous faudra **une liste avec au moins un contact** pour pouvoir générer le code du widget à
+    Il vous faudra **une liste** pour pouvoir générer le code du widget à
     rajouter dans votre site.
 
 Comment faire?
