@@ -54,3 +54,8 @@ Et voici le résultat :
 
 .. figure::  _static/images/widgets.png
     :align:   center
+
+Pré-requis `HTML`
+    On considère que le widget est ajouté dans un document ``HTML`` *viable*, c.-à-d. qu'il possède **au moins un élément** ``<titre>`` **ou** ``<link>``.
+    Nous utilisons cet élément comme référence pour insérer le ``CSS`` du widget dans le document.
+    Si aucun des deux éléments n'est trouvé alors le CSS ne pourra pas être injecté, le formulaire utilisera les styles par défaut du navigateur.
