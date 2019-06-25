@@ -55,6 +55,7 @@ Créer et gérer ses mailings
 
    create_mailing
    template_mailing
+   delivrability
 
 .. _widgets-docs:
 
